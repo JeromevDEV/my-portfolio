@@ -1,9 +1,10 @@
 {
-  "name": "react-portfolio-template",
+  "name": "react-portfolio",
   "private": true,
-  "description": "Portfolio Template For Awesome Peoples",
+  "description": "My portfolio",
   "version": "0.1.0",
-  "author": "Chetan Verma <hello@chetanverma.com>",
+  "author": "Jerome Vial <jeromev.dev@hotmail.com>",
+  "homepage": "https://github.com/JeromevDEV/my-portfolio",
   "dependencies": {
     "animate.css": "^4.1.1",
     "gatsby": "^2.26.1",
@@ -17,6 +18,7 @@
     "gatsby-plugin-smoothscroll": "^1.2.0",
     "gatsby-source-filesystem": "^2.5.0",
     "gatsby-transformer-sharp": "^2.6.0",
+    "gh-pages": "^3.2.3",
     "node-sass": "^4.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
@@ -35,6 +37,8 @@
   ],
   "license": "0BSD",
   "scripts": {
+	"predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
