@@ -13,11 +13,11 @@ const Navbar = () => {
           >
             Portfolio.
           </div>
-          <div className="links-wrapper">
-            <button onClick={() => scrollTo("#work")}>Work</button>
-            <button onClick={() => scrollTo("#about")}>About</button>
-			<button onClick={() => scrollTo("#education")}>Education</button>
-            <button onClick={() => scrollTo("#contact")}>Contact</button>
+          <div className="links-wrapper" >
+            <button onClick={() => scrollTo("#work")} style={{fontSize: 15}}>Work</button>
+            <button onClick={() => scrollTo("#about")} style={{fontSize: 15}}>About</button>
+			<button onClick={() => scrollTo("#education")} style={{fontSize: 15}}>Education</button>
+            <button onClick={() => scrollTo("#contact")} style={{fontSize: 15}}>Contact</button>
           </div>
         </div>
       </div>
