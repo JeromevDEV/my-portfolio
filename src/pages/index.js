@@ -13,7 +13,7 @@ import Education from "../components/Education"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="My portfolio" />
+    <SEO title="Home page" />
     <Header></Header>
     <Work></Work>
     <About></About>
