@@ -1,6 +1,8 @@
 # JeromevDEV's portfolio
 
 Live at : https://jeromevdev.github.io/my-portfolio/
+![CI/CD](https://github.com/dyarleniber/react-workflow-gh-actions/workflows/CI/CD/badge.svg)
+
 
 ### Infos
 This is my portfolio, highly inspired by @mittalsam98 template [https://github.com/mittalsam98/react-portfolio].
