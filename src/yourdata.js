@@ -5,11 +5,14 @@ import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
 import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
+import languageIcon from "./images/language.svg"
+import cryptoIcon from "./images/cryptocurrency.svg" 
+import businessIcon from "./images/business.svg" 
+
 
 // Social Icon
 import githubIcon from "./images/github.svg"
 import twitchIcon from "./images/twitch-icon.svg"
-import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
 
 // Other images 
@@ -122,7 +125,7 @@ export default {
   aboutParaTwo:
     "I like to develop web app and to use new technologies. I'm also very interested in UI/UX and in streaming. I'm actually learning skills on video and image editing",
   aboutParaThree:
-    "On my free time I enjoy riding my Ducati SuperSport S, play video games and stream.",
+    "In my free time I enjoy riding my Ducati Super Sport S, play video games and stream.",
   aboutImage:
     pdp,
 
@@ -143,25 +146,40 @@ export default {
       para:
         "React is one of my favorite JavaScript library. ",
     },
-    {
-      img: designIcon,
-      para:
-        "I love design and trends, I'm still new to UI/UX and I work everyday on getting better !",
-    },
-    {
+	{
       img: codeIcon,
       para:
         "I can code using Java, C++, JS, HTML, SQL.",
     },
+    {
+      img: designIcon,
+      para:
+        "I love design and trends, I'm still new to UI/UX and I work everyday on getting better!",
+    },
 	{
       img: videoIcon,
       para:
-        "I have huge interest into film making and video editing. I'm actually using Premiere Pro.",
+        "I have a huge interest in film making and video editing. I'm actually using Premiere Pro.",
     },
 	{
       img: wordpressIcon,
       para:
         "I'm always trying to learn new stuff and actually I'm looking forward to develop websites using WordPress.",
+    },
+    {
+      img: languageIcon,
+      para:
+        "My mother tongue is French but I'm fluent in English as well. I can also speak German, but at a moderated level.",
+    },	
+	{
+      img: cryptoIcon,
+      para:
+        "I'm very interested about cryptocurrency and the project behind some currency. I'm learning more and more about this subject every day.",
+    },
+	{
+      img: businessIcon,
+      para:
+        "Business related skills are important to me.	",
     },	
   ],
 
