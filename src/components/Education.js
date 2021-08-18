@@ -27,7 +27,7 @@ class Education extends Component {
                                                 </div>
                                                 <div className={classes.label}>
                                                 <h2 >HES-SO <span>2021-Today</span></h2>
-                                                <p> I'm actually on my way to get my Master at the HES-SO in Switzerland. </p>
+                                                <p> I'm actually on my way to get my Master at the HES-SO in Switzerland. It's a 1.5 years formation. </p>
                                                 </div>
                                             </article>
                                         </ScrollAnimation>
