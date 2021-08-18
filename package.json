@@ -7,6 +7,7 @@
   "homepage": "https://github.com/JeromevDEV/my-portfolio",
   "dependencies": {
     "animate.css": "^4.1.1",
+    "babel-plugin-add-module-exports": "^1.0.4",
     "gatsby": "^2.26.1",
     "gatsby-cli": "^3.11.0",
     "gatsby-image": "^2.5.0",
