@@ -2,7 +2,7 @@
 
 Live at : https://jeromevdev.github.io/my-portfolio/ 
 
-![CI/CD](https://github.com/JeromevDEV/my-portfolio/workflows/react-workflow-gh-actions/badge.svg)
+![CI/CD](https://github.com/JeromevDEV/my-portfolio/workflows/react-workflow-gh-pages)
 
 
 ### Infos
