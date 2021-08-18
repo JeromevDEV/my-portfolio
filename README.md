@@ -2,7 +2,7 @@
 
 Live at : https://jeromevdev.github.io/my-portfolio/ 
 
-![CI/CD](https://github.com/JeromevDEV/my-portfolio/blob/main/.github/workflows/react-worflow-gh-pages/badges.svg)
+![CI/CD](https://github.com/JeromevDEV/my-portfolio/blob/main/.github/workflows/react-worflow-gh-pages)
 
 
 ### Infos
