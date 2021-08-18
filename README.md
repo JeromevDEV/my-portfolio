@@ -2,8 +2,7 @@
 
 Live at : https://jeromevdev.github.io/my-portfolio/ 
 
-![CI/CD](https://github.com/JeromevDEV/my-portfolio/blob/main/.github/workflows/react-worflow-gh-pages.yml)
-
+[![Node.js CI](https://github.com/JeromevDEV/my-portfolio/actions/workflows/react-worflow-gh-pages.yml/badge.svg?branch=main)](https://github.com/JeromevDEV/my-portfolio/actions/workflows/react-worflow-gh-pages.yml)
 
 ### Infos
 This is my portfolio, highly inspired by @mittalsam98 template [https://github.com/mittalsam98/react-portfolio].
