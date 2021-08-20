@@ -66,14 +66,14 @@ export default {
       url: "https://medium.com/empathic-labs/skeleton-detection-using-a-video-7623f1cc1d42",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "React Weather App", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "A simple app to display the weather made with ReactJS and OpenWeatherAPI.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://images.unsplash.com/photo-1454789476662-53eb23ba5907?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=689&q=80",
       //Project URL - Add Your Project Url Here
-      url: "./",
+      url: "https://jeromevdev.github.io/react-weather-app/",
     },
     {
       title: "Project Four", //Project Title - Add Your Project Title Here
