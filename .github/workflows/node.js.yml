@@ -15,4 +15,4 @@ jobs:
           access-token: ${{ secrets.ACTION_DEPLOY_ACCESS_SECRET }}
           deploy-branch: gh-pages
           gatsby-args: --prefix-paths
-          skip-publish: true
+          skip-publish: false
